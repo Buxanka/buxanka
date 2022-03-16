@@ -26,6 +26,7 @@ int main(void) {
 	showArray(a1, 5);
 	cout << "Массив double:\n";
 	showArray(a2, 4);
+	//test
 
 
 
